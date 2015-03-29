@@ -2,7 +2,7 @@
 
 Random ROM launcher for MAME (Multiple Arcade Machine Emulator).
 
-The program chooses a random ROM, displays the ROM info and then launches the game in MAME.
+The program chooses a random ROM, displays the ROM info and then launches the game in MAME.  This repeats indefinitely until the user presses Ctrl+C. 
 
 Java is required to execute the program.  The launcher has been tested with Java SE Runtime Environment 7 although all recent versions will work.
 
