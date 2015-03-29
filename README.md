@@ -1,4 +1,4 @@
-# Feeling Lucky Launcher
+# Feeling Lucky Launcher for MAME
 
 Random ROM launcher for MAME (Multiple Arcade Machine Emulator).
 
