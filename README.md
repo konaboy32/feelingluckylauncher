@@ -8,6 +8,6 @@ Java is required to execute the program.  The launcher has been tested with Java
 
 To use the program download the Launcher.class file from tbe bin folder.  The command to run the program is:
 
-java Launcher <MAME_DIR> <ROMS_DIR>
+java Launcher MAME_DIR ROMS_DIR
 
-You may optionally download the launcher.bat file which contains this command.
+You may optionally download the launcher.bat.  The HistoryDatManager is a work-in-progress experimental feature for fetching entries from the MAME history.dat file.
